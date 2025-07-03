@@ -1,22 +1,8 @@
-<!-- PROJECT BADGES -->
-
-<p align="center">
-  <a href="#-sobre">
-    <img src="https://img.shields.io/badge/Guia%20Completo%20-Branches%20Para%20Repositórios-blue.svg" alt="Branching Guide" />
-  </a>
-  <a href="https://github.com/dev-ggomes/Branches-Complete-Guide4-Repositories/actions">
-    <img src="https://img.shields.io/github/workflow/status/dev-ggomes/Branches-Complete-Guide4-Repositories/CI?label=CI" alt="CI Status" />
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/dev-ggomes/Branches-Complete-Guide4-Repositories" alt="License" />
-  </a>
-</p>
-
 <div align="center">
   
   # Branching Pro Guide
   
-  Guia completo e intuitivo para dominar branches no Git e GitHub
+  :octocat: Guia completo e intuitivo para dominar branches no Git e GitHub
 
 </div> 
 
