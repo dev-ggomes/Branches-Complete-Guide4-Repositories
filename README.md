@@ -216,7 +216,7 @@ git push -u origin prefixo/nome
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/yourusername/branching-pro-guide.git](https://github.com/yourusername/branching-pro-guide.git)
+   git clone [https://github.com/seu-nome-de-usuario/Branches-Complete-Guide4-Repositories.git](https://github.com/seu-nome-de-usuario/Branches-Complete-Guide4-Repositories.git)
    ```
 
 
