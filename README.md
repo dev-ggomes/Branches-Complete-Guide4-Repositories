@@ -229,6 +229,6 @@ git push -u origin prefixo/nome
 
 <p align="center">
   
-  Feito com ❤️ & Markdown por [dev-ggomes](https://github.com/dev-ggomes)
+  Feito com ❤️ & Markdown por [dev-ggomes](https://github.com/dev-ggomes) com a contribuição de [LeoSilva91](https://github.com/LeoSilva91)
   
 </p>
