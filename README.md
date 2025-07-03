@@ -41,10 +41,10 @@ Este repositório é um guia visual e passo a passo para iniciantes e profission
 
 | Termo            | Descrição breve                                                       |
 | ---------------- | --------------------------------------------------------------------- |
-| **branch**       | Ramo de desenvolvimento independente.                                 |
-| **commit**       | Snapshot de alterações no repositório.                                |
-| **pull request** | Proposta de integração de um branch em outro, com revisão.            |
-| **merge**        | Ação de combinar alterações de diferentes branches.                   |
+| **branch** ou **branches**       | Ramo de desenvolvimento independente.                                 |
+| **commit** ou **commits**       | Snapshot de alterações no repositório.                                |
+| **pull request** ou **PR** | Proposta de integração de um branch em outro, com revisão.            |
+| **merge** ou **merges**        | Ação de combinar alterações de diferentes branches.                   |
 | **main**         | Branch principal e estável (produção).                                |
 | **develop**      | Branch de integração de novas funcionalidades.                        |
 | **feature/**     | Prefixo para desenvolvimento de novas funcionalidades.                |
