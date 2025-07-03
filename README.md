@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Branching Guide
+  # Guia sobre Branches
   
   :octocat: Guia completo e intuitivo para dominar branches no Git e GitHub
 
