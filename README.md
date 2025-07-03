@@ -183,8 +183,8 @@ git push -u origin prefixo/nome
 
 ### PR & Merge
 
+> [!NOTE]\
 > **Notas de Merge**
->
 > * **Merge Commit**: preserva histórico completo. Use para features longas.
 > * **Squash and Merge**: consolida commits em um só. Use para simplificar.
 > * **Rebase and Merge**: cria histórico linear. Use para commits atômicos.
